@@ -30,4 +30,4 @@
 
 ###
 
- ![Snake animation](https://github.com/rodrigonegreiros/rodrigonegreiros/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rodrigonegreiros/rodrigonegreiros/output/github-contribution-grid-snake.svg)

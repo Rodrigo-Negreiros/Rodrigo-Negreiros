@@ -30,4 +30,5 @@
 
 ###
 
-![Snake gif](https://raw.githubusercontent.com/rodrigonegreiros/rodrigonegreiros/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Rodrigo-Negreiros/Rodrigo-Negreiros/output/github-contribution-grid-snake.svg)
+
